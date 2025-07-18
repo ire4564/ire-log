@@ -20,6 +20,7 @@ const CONFIG = {
   blog: {
     title: "ire-devlog",
     description: "welcome to ire-devlog 😎",
+    scheme: "dark", // 'light' | 'dark' | 'system'
   },
 
   // CONFIG configration (required)
